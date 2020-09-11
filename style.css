@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    padding: 1rem;
+}
+
+#currentDay-forecast h2{
+    color: white;
+    font-size: 40px;
+    
+}
+
+#currentDay-forecast p {
+    color: beige;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#card-container {
+    margin: 0px;
+    
+}
+
+#current-container {
+    background-color:slategray;
+}
